@@ -2,8 +2,6 @@
   "name": "Wtff",
   "description": "Yeah",
   "keywords": "Cool",
-  "env": {
-  },
   "buildpacks": [
    {
      "url": "https://github.com/heroku/heroku-buildpack-apt.git"
